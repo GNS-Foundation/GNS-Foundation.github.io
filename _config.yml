@@ -1,28 +1,28 @@
 # Site Settings
-locale                   : "en-US"
-title                    : "Camilo Ayerbe Posada"
-title_separator          : "-"
-name                     : &name "Camilo Ayerbe Posada"
-description              : &description "Founder of ULISSY s.r.l. and the GNS Protocol. Building the Internet's missing identity layer."
-url                      : https://GNS-Foundation.github.io
-baseurl                  : ""
-repository               : "GNS-Foundation/GNS-Foundation.github.io"
+locale: "en-US"
+title: "Camilo Ayerbe Posada"
+title_separator: "-"
+name: &name "Camilo Ayerbe Posada"
+description: &description "Founder of ULISSY s.r.l. and the GNS Protocol. Building the Internet's missing identity layer."
+url: https://GNS-Foundation.github.io
+baseurl: ""
+repository: "GNS-Foundation/GNS-Foundation.github.io"
 
 # Site Author
 author:
-  name             : "Camilo Ayerbe Posada"
-  avatar           : "profile.jpg"
-  bio              : "Building the Internet's missing identity layer. Founder of ULISSY s.r.l. and the GNS Protocol."
-  location         : "Rome, Italy"
-  employer         : "ULISSY s.r.l."
-  uri              : "https://ulissy.com"
-  email            : "cayerbe@gmail.com"
-  github           : "GNS-Foundation"
-  linkedin         : "camilo-ayerbe-posada-2012a21"
-  medium           : "camilo.ayerbe"
-  orcid            :
-  googlescholar    :
-  twitter          :
+  name: "Camilo Ayerbe Posada"
+  avatar: "profile.jpg"
+  bio: "Building the Internet's missing identity layer. Founder of ULISSY s.r.l. and the GNS Protocol."
+  location: "Rome, Italy"
+  employer: "ULISSY s.r.l."
+  uri: "https://ulissy.com"
+  email: "cayerbe@gmail.com"
+  github: "GNS-Foundation"
+  linkedin: "camilo-ayerbe-posada-2012a21"
+  medium: "camilo.ayerbe"
+  orcid:
+  googlescholar:
+  twitter:
 
 # Reading Files
 include:
