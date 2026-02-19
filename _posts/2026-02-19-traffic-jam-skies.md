@@ -117,7 +117,7 @@ I still watch the starlings over Rome every winter evening. The murmurations are
 
 Above the murmurations, invisible, 12,000 satellites trace their own paths. Some are dutiful observers. Some are stalkers. Some are ticking time bombs. And some have already exploded, leaving clouds of debris that will orbit for centuries.
 
-We built an identity protocol for the humans below. It turns out the machines above need it just as badly.
+We built an identity protocol for the humans below. It turns out the machines above need it just as badly. And soon enough, when autonomous robots begin walking among us on the streets — not orbiting overhead but sharing our sidewalks — the question will be the same one it has always been: *how did you get here, and can you prove it?*
 
 The TRIP protocol specification is an IETF Internet-Draft: draft-ayerbe-trip-protocol-00. The live satellite demo is at orbital-trip-production.up.railway.app. The code is at github.com/GNS-Foundation/orbital-trip.
 
