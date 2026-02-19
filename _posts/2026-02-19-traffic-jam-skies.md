@@ -12,11 +12,6 @@ tags:
 ---
 
 # Traffic Jam in the Skies: Why Satellites Need Identity Too
-
-*On exploding satellites, orbital spies, a $500 million uninsured disaster, and what a protocol designed for humans can teach us about the 12,000 machines circling our heads.*
-
----
-
 On October 19, 2024, somewhere above the Indian Ocean, a $500 million satellite exploded.
 
 No warning. No distress signal. Intelsat 33e — a Boeing-built communications satellite serving Europe, Africa, and most of Asia — simply ceased to exist at 04:30 UTC, fragmenting into what would eventually become more than 700 pieces of high-velocity debris, each one now orbiting Earth at 3 kilometers per second, 35,000 kilometers above our heads.
